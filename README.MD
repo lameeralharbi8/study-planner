@@ -13,3 +13,11 @@ Open index.html in your web browser.
 
 ## Technologies
 HTML, CSS, JavaScript.
+## Live Demo
+
+https://lameeralharbi8.github.io/study-planner/
+
+## Project Author
+
+Lameer Alharbi
+Computer and Network Engineering
